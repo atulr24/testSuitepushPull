@@ -1,0 +1,70 @@
+{
+ "entityType": "testcase",
+ "category": "rule",
+ "isList": true,
+ "dataList": [
+  {
+   "createdAt": "2026-06-17T07:22:17.88Z",
+   "updatedAt": "2026-06-17T07:22:33.333828Z",
+   "isDeleted": false,
+   "entityId": "2d3e2606-f259-4a8b-b0da-2b081d33e3c8",
+   "name": "Test 1",
+   "group": [
+    "G1",
+    "G2"
+   ],
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "Atul"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "defaultOutputData": true,
+  "result_1": "Test",
+  "rowError": null,
+  "rowId": 1
+ }
+]
+   }
+  },
+  {
+   "createdAt": "2026-06-17T07:22:33.325Z",
+   "updatedAt": "2026-06-17T07:22:33.325Z",
+   "isDeleted": false,
+   "entityId": "50073869-776b-4ba7-a95e-95690cb7d5a4",
+   "name": "Test 2",
+   "group": [
+    "G1"
+   ],
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "Atul"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "defaultOutputData": true,
+  "result_1": "Test",
+  "rowError": null,
+  "rowId": 1
+ }
+]
+   }
+  }
+ ]
+}
