@@ -1,0 +1,195 @@
+{
+ "entityType": "testcase",
+ "category": "rule",
+ "isList": true,
+ "dataList": [
+  {
+   "createdAt": "2026-06-18T07:36:19.029Z",
+   "updatedAt": "2026-06-18T07:36:19.029Z",
+   "isDeleted": false,
+   "entityId": "20bd9c69-14ca-4639-9802-292c457bac63",
+   "name": "Test 4",
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "Atul"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "defaultOutputData": true,
+  "rowError": null,
+  "rowId": 1
+ }
+]
+   }
+  },
+  {
+   "createdAt": "2026-06-18T07:36:19.025Z",
+   "updatedAt": "2026-06-18T07:36:19.025Z",
+   "isDeleted": false,
+   "entityId": "1ef866ca-e546-447d-9920-bf4f2d669748",
+   "name": "Test 3",
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "Atul"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "defaultOutputData": true,
+  "rowError": null,
+  "rowId": 1
+ }
+]
+   }
+  },
+  {
+   "createdAt": "2026-06-18T07:36:19.02Z",
+   "updatedAt": "2026-06-18T07:36:19.02Z",
+   "isDeleted": false,
+   "entityId": "72cd52ec-75a8-4079-8d13-db267324c024",
+   "name": "Test 2",
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "Atul"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "defaultOutputData": true,
+  "rowError": null,
+  "rowId": 1
+ }
+]
+   }
+  },
+  {
+   "createdAt": "2026-06-18T07:36:09.579Z",
+   "updatedAt": "2026-06-18T07:36:09.579Z",
+   "isDeleted": false,
+   "entityId": "2f43b48a-a68e-4abd-a3df-8f8b0912833d",
+   "name": "Test 1",
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "Atul"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "defaultOutputData": true,
+  "rowError": null,
+  "rowId": 1
+ }
+]
+   }
+  },
+  {
+   "createdAt": "2026-06-18T06:49:46.77Z",
+   "updatedAt": "2026-06-18T07:33:34.419968Z",
+   "isDeleted": false,
+   "entityId": "d7b6247c-ceb8-48d3-b895-9056ffa335f3",
+   "name": "Test 2",
+   "group": [
+    "G1"
+   ],
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "AtulRaizada123"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "rowId": 1
+ }
+]
+   }
+  },
+  {
+   "createdAt": "2026-06-18T06:49:46.776Z",
+   "updatedAt": "2026-06-18T07:28:21.082641Z",
+   "isDeleted": false,
+   "entityId": "46f51b98-e2df-4eb2-b1ec-17ae6299f95f",
+   "name": "Test 3",
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "AtulRaizada"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "rowId": 1
+ }
+]
+   }
+  },
+  {
+   "createdAt": "2026-06-18T06:49:24.857Z",
+   "updatedAt": "2026-06-18T07:12:28.81141Z",
+   "isDeleted": false,
+   "entityId": "953f5d32-0c6c-4cf1-8efd-fe60e3337769",
+   "name": "Test 1",
+   "input": {
+    "ci": {
+     "Name": {
+ "value": "Atul"
+}
+    }
+   },
+   "output": {
+    "action": null,
+    "additionalOutput": {
+ 
+},
+    "output": [
+ {
+  "defaultOutputData": false,
+  "rowError": null,
+  "rowId": 1
+ }
+]
+   }
+  }
+ ]
+}
